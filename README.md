@@ -48,8 +48,5 @@ export class AppComponent  {
 }
 
 //app.component.html
-<h1>
-  {{title}}
-</h1>
 
 <dx-button text="Press me" (onClick)="helloWorld()"></dx-button>
